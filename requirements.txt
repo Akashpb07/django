@@ -55,7 +55,7 @@ static==1.1.1
 static.hy==0.0.8
 stevedore==2.0.1
 tablib==2.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 view==0.1
 virtualenv==20.0.25
 virtualenv-clone==0.5.4
